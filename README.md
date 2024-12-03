@@ -1,15 +1,84 @@
-# AI-Music-Workshop-23
+# AI-Music-Instrument-Workshop 9:00
+![qrcode](image/README/qrcode_github.com.png)
 
-## Day 2
+## How everythimg started: Early machine learning / instruments
+- https://historyofcomputers.eu/timelines/history-of-computers-a-brief-timeline/ 
+- Perceptron: https://en.wikipedia.org/wiki/Perceptron
+- Explainer: https://mlu-explain.github.io/
+- A path: http://www.tml.hut.fi/Research/DIVA/past/ 
 
-### 2.1 AIVA 
+## Onto Deep Learning (Discriminative, Generative)
+![Deep Learning](image/README/DL-Discriminative.png)
+
+- https://playground.tensorflow.org/
+    - [ ] Tinker with the defalult example: What are features, learning rate, activation functions?
+    - [ ] Challenge: Can you create a neural network that only uses the first 2 features as input, and linear as the activation function?
+  ![1692675074232](image/README/1692675074232.png)
+    - Exit: Check around tensorflow @ https://www.tensorflow.org/ (Main tool for Magenta)
+
+### NSynth + Magenta Family 
+
+- Explore https://magenta.tensorflow.org/get-started
+- Find NSynth Explorer at the Web Applications: https://magenta.tensorflow.org/demos/web/ , try it out
+- Main: https://magenta.tensorflow.org/nsynth
+- Check https://magenta.tensorflow.org/nsynth-instrument If you have Ableton Live or Max/MSP, download the plugin, experiment with the grid. If not, try other web apps.
+
+### Magenta Studio 
+- Download Magenta Studio https://magenta.tensorflow.org/studio (If you have Ableton Live, the plugin version, if not the standalone)
+- Make sure to experiment with all 5 tools: [Continue](https://magenta.tensorflow.org/studio/standalone#continue), [Groove](https://magenta.tensorflow.org/studio/standalone#groove), [Generate](https://magenta.tensorflow.org/studio/standalone#generate), [Drumify](https://magenta.tensorflow.org/studio/standalone#drumify), and [Interpolate](https://magenta.tensorflow.org/studio/standalone#interpolate). 
+
+### Current GenAI amd Large Language Models (LLMs) applied to Music
+
+* Google Music LM: https://google-research.github.io/seanet/musiclm/examples/
+* Meta AudioCraft: https://audiocraft.metademolab.com/
+* Web UI for LLMs https://sonauto.ai
+* 🔥 https://fugatto.github.io/ 
+
+# What is hot
+
+## Classical Electronic Music for Modern AI
+
+<div align="middle">
+<img src="https://juanalonso.github.io/ddsp_fm/img/anim_vae01.gif 
+" height="384">
+</div>
+
+🚀 [Juan Alonso Moreno](https://github.com/juanalonso) has developed a differentiable FM synthesizer using the DDSP framework in his 2021 SMC Master thesis 
+
+- Audio [https://juanalonso.github.io/ddsp_fm/](https://juanalonso.github.io/ddsp_fm/)
+- Code [https://juanalonso.github.io/ddsp_fm/](https://github.com/juanalonso/ddsp_fm)
+
+[Franco Caspe](https://fcaspe.github.io/), a PhD student from QMUL has interesting related projects. There is a [new book and repo](https://github.com/yeeking/ai-enhanced-audio-book) by Yee-King you can use to combine the power of deep learning and the real-time capabilities of the JUCE platform.
+
+💿 DATA: Miller S Puckette [in his Pd Repertory Project](https://msp.ucsd.edu/pdrp/) provides example study patches of important electronic / computer music projects. [Stefano Fasciani (U. Oslo)](https://github.com/stefanofasciani/DGMD) is actively working on a dataset generator for musical devices. 
+
+Starting from these models 🚀 and data 💿, can you design and evaluate an end-to-end differentiable synthesizer? 
+
+## Quantum Sound and Music Computing
+Denmark has a rich history of innovation in Quantum research, and aims to a big player in Quantum Computing. There is a [growing community, a national strategy, talent programs, and resources available](https://dqc.dk/) for the next generation of Quantum Computing and Quantum Machine Learning professionals. Outside of Denmark, startups like [Moth Quantum](https://mothquantum.com/) strive to enable the next era of music, gaming and the arts with quantum computing technology.
+
+
+<div align="middle">
+<img src="https://refikanadol.com/wp-content/uploads/2020/12/TROSS_NGVTRNL_1511-Edit-Edit-Edit-2_fullres-2096x1400.jpg" height="384">
+<br>Image linked from https://refikanadol.com/works/quantummemories/  
+<br>
+<br>
+</div>
+
+**Objective**: Explore the intersection of quantum and creative computing in sound and music, focusing on the development of new musical instruments and compositions.
+
+# Other topics
+
+## Music making & production systems
+
+### AIVA 
 
 - Main: https://aiva.ai/
 - Release discord: https://discord.com/channels/595651381860368384/596767903215255572
 - Tutorial list @ YouTube
   https://www.youtube.com/watch?v=SR-UWkSTmAQ&list=PLv7BOfa4CxsHp4uDdsmZgpdclrwkdMpOe
 
-#### TODO
+#### AIVA TODO
 
 - Check Terms and Conditions and create an account
 - Generate 3 versions of a compositions on the web interface
@@ -19,26 +88,6 @@
 - Show and tell: including influence and ethics
 - Download your work as MIDI (we'll use in 1.3 onwards)
 
-### 2.2 Machine Learning Basics 
-
-- Main: https://playground.tensorflow.org/
-- Tinker with the defalult example: What are features, learning rate, activation functions?
-- Challenge: Can you create a neural network that only uses the first 2 features as input, and linear as the activation function?
-  ![1692675074232](image/README/1692675074232.png)
-- Exit: Check around tensorflow @ https://www.tensorflow.org/ (Main tool for Magenta)
-
-### 2.3 NSynth + Magenta Family 
-
-- Explore https://magenta.tensorflow.org/get-started
-- Find NSynth Explorer at the Web Applications: https://magenta.tensorflow.org/demos/web/ , try it out
-- Main: https://magenta.tensorflow.org/nsynth
-- Check https://magenta.tensorflow.org/nsynth-instrument If you have Ableton Live or Max/MSP, download the plugin, experiment with the grid. If not, try other web apps.
-
-### 2.4 Magenta Studio 
-- Download Magenta Studio https://magenta.tensorflow.org/studio (If you have Ableton Live, the plugin version, if not the standalone)
-- Make sure to experiment with all 5 tools: [Continue](https://magenta.tensorflow.org/studio/standalone#continue), [Groove](https://magenta.tensorflow.org/studio/standalone#groove), [Generate](https://magenta.tensorflow.org/studio/standalone#generate), [Drumify](https://magenta.tensorflow.org/studio/standalone#drumify), and [Interpolate](https://magenta.tensorflow.org/studio/standalone#interpolate). Apply Magenta models to your MIDI file from (1.1).
-- Show and tell at 13:30.
-
 ### 2.4 DAW Plugins
 
 - Main: https://interactiveaudiolab.github.io/project/audacity.html
@@ -46,40 +95,4 @@
 - Try Usage Example - Upmixing and Remixing with Source Separation with your favorite audio file
 - Try adding vocals to your AIVA composition. We have to match the pitch, tempo, harmony, or other attributes with effects.
 
-### 2.5 Solo instruments
-- Magenta's DDSP: https://magenta.tensorflow.org/ddsp-vst
-  - DDSP models by its authors: https://drive.google.com/drive/folders/1o00rBOLPNEZWURCimK_QQWpvR8iWVeK5 
-- DDSP + TikTok-like morphing: https://mawf.io/
-- 🔥 **Neutone**: https://neutone.space/ 
 
-### 2.6 Large Language Models (LLMs) applied to Music
-
-* Google Music LM: https://google-research.github.io/seanet/musiclm/examples/
-* Meta AudioCraft: https://audiocraft.metademolab.com/
-* Brand-new: web UI for LLMs https://sonauto.app/ (requires Google log in)
-
-## Day 3
-
-### 3.1 Project initiation and work (AM)
-
-Integrating 🔥 **Neutone**: https://neutone.space/ in your workflow, create a short musical piece. Ensure to use demucs for source seperation and several generative models together. Be *mindful* [about the resources](https://github.com/QosmoInc/neutone_sdk/pull/48) (sampling rate, buffer size, Real-time factor, latency etc): In most cases you'll be able to run max three instances even on a high-end computer. 
-
-### 3.2 Project presentations (PM)
-
-Critical listening and discussion. The final pieces will be linked here.
-
-#### Gianluca Eila linka
-Harmonai, Dance Diffusion
-https://www.youtube.com/watch?v=KmB8z2CYjZY
-
-Harmonai
-https://www.harmonai.org/
-
-Dadabots keynote
-https://www.youtube.com/watch?v=70PjXAOmQIs
-
-Moises horta hexorcismos
-https://moiseshorta.audio/
-
-Nice exhibition by ai ethics researcher mirabelle jones, open until aug 27
-https://facebook.com/events/s/overs%C3%A6ttelse-af-traumer-transl/2253077421542112/
