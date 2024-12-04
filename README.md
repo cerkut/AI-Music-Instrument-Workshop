@@ -27,6 +27,20 @@
 - Download Magenta Studio https://magenta.tensorflow.org/studio (If you have Ableton Live, the plugin version, if not the standalone)
 - Make sure to experiment with all 5 tools: [Continue](https://magenta.tensorflow.org/studio/standalone#continue), [Groove](https://magenta.tensorflow.org/studio/standalone#groove), [Generate](https://magenta.tensorflow.org/studio/standalone#generate), [Drumify](https://magenta.tensorflow.org/studio/standalone#drumify), and [Interpolate](https://magenta.tensorflow.org/studio/standalone#interpolate). 
 
+## Generative AI for Audio
+![GenAI-sans-transformers](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_5GpdejeOvt61ew4aPtT_g.png)
+- https://paperswithcode.com
+### Explainers
+- https://poloclub.github.io
+
+## Tone Transfer
+- Magenta's DDSP: https://magenta.tensorflow.org/ddsp-vst
+  - DDSP models by its authors: https://drive.google.com/drive/folders/1o00rBOLPNEZWURCimK_QQWpvR8iWVeK5
+- RAVE: https://forum.ircam.fr/search/?topics=RAVE 
+- DDSP + TikTok-like morphing: https://mawf.io/
+- FluComa https://learn.flucoma.org/ 
+- 🔥 **Neutone**: https://neutone.ai/ 
+
 ### Current GenAI amd Large Language Models (LLMs) applied to Music
 
 * Google Music LM: https://google-research.github.io/seanet/musiclm/examples/
@@ -37,11 +51,7 @@
 # What is hot
 
 ## Classical Electronic Music for Modern AI
-
-<div align="middle">
-<img src="https://juanalonso.github.io/ddsp_fm/img/anim_vae01.gif 
-" height="384">
-</div>
+![FM-Synth](https://juanalonso.github.io/ddsp_fm/img/anim_vae01.gif))
 
 🚀 [Juan Alonso Moreno](https://github.com/juanalonso) has developed a differentiable FM synthesizer using the DDSP framework in his 2021 SMC Master thesis 
 
