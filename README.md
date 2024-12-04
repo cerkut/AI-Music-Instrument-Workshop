@@ -1,7 +1,7 @@
 # AI-Music-Instrument-Workshop 9:00
 ![qrcode](image/README/qrcode_github.com.png)
 
-## How everythimg started: Early machine learning / instruments
+## How everything started: Early machine learning / instruments
 - https://historyofcomputers.eu/timelines/history-of-computers-a-brief-timeline/ 
 - Perceptron: https://en.wikipedia.org/wiki/Perceptron
 - Explainer: https://mlu-explain.github.io/
