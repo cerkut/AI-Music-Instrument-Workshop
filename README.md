@@ -5,7 +5,8 @@
 - https://historyofcomputers.eu/timelines/history-of-computers-a-brief-timeline/ 
 - Perceptron: https://en.wikipedia.org/wiki/Perceptron
 - Explainer: https://mlu-explain.github.io/
-- A path: http://www.tml.hut.fi/Research/DIVA/past/ 
+- A path: http://www.tml.hut.fi/Research/DIVA/past/
+- Try out: https://docs.edgeimpulse.com/workshops 
 
 ## Onto Deep Learning (Discriminative, Generative)
 ![Deep Learning](image/README/DL-Discriminative.png)
@@ -51,7 +52,8 @@
 # What is hot
 
 ## Classical Electronic Music for Modern AI
-![FM-Synth](https://juanalonso.github.io/ddsp_fm/img/anim_vae01.gif))
+
+![FM](image/README/anim_vae01.gif)
 
 🚀 [Juan Alonso Moreno](https://github.com/juanalonso) has developed a differentiable FM synthesizer using the DDSP framework in his 2021 SMC Master thesis 
 
