@@ -8,6 +8,11 @@
 - A path: http://www.tml.hut.fi/Research/DIVA/past/
 - Try out: https://docs.edgeimpulse.com/workshops 
 
+### Where are we now
+- https://semilla.ai/
+- https://neutone.ai/
+- https://fugatto.github.io/ 
+
 ## Onto Deep Learning (Discriminative, Generative)
 ![Deep Learning](image/README/DL-Discriminative.png)
 
@@ -31,6 +36,7 @@
 ## Generative AI for Audio
 ![GenAI-sans-transformers](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_5GpdejeOvt61ew4aPtT_g.png)
 - https://paperswithcode.com
+  - https://paperswithcode.com/task/audio-generation 
 ### Explainers
 - https://poloclub.github.io
 
