@@ -46,8 +46,8 @@
 - RAVE: https://forum.ircam.fr/search/?topics=RAVE 
 - DDSP + TikTok-like morphing: https://mawf.io/
 - FluComa https://learn.flucoma.org/ 
-- 🔥 **Neutone**: https://neutone.ai/ 
-
+- 🔥 **Neutone**: https://neutone.ai/ (Watch the video below for an introduction, or visit (./morpho.md) for a dedicated page.
+[![Intoduction to Morpho](https://img.youtube.com/vi/CI79qnstFN0/0.jpg)](https://www.youtube.com/watch?v=CI79qnstFN0)
 ### Current GenAI amd Large Language Models (LLMs) applied to Music
 
 * Google Music LM: https://google-research.github.io/seanet/musiclm/examples/
