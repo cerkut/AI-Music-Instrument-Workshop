@@ -11,7 +11,8 @@
 ### Where are we now
 - https://semilla.ai/
 - https://neutone.ai/
-- https://fugatto.github.io/ 
+- https://fugatto.github.io/
+- Research (until 2023) July: https://github.com/AI-Guru/music-generation-research  
 
 ## Onto Deep Learning (Discriminative, Generative)
 ![Deep Learning](image/README/DL-Discriminative.png)
