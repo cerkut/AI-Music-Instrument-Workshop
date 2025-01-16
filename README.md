@@ -12,7 +12,10 @@
 - https://semilla.ai/
 - https://neutone.ai/
 - https://fugatto.github.io/
-- Research (until 2023) July: https://github.com/AI-Guru/music-generation-research  
+- Research (until 2023) July: https://github.com/AI-Guru/music-generation-research
+  - Another timeline: https://github.com/archinetai/audio-ai-timeline 
+  - Acquiring more technical debt on the go: https://mattturck.com/mad2024 
+  
 
 ## Onto Deep Learning (Discriminative, Generative)
 ![Deep Learning](image/README/DL-Discriminative.png)
