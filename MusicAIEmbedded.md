@@ -3,7 +3,9 @@
 # Music and AI: Embedded (and Embodied)
 
 Cumhur Erkut, cer@create.aau.dk
+
 Associate Professor, Dr. Sc. (Tech)
+
 https://cerkut.github.io
 
 ![1737073391385](image/MusicAIEmbedded/1737073391385.png)
@@ -12,7 +14,7 @@ https://cerkut.github.io
 
 ![1737073480926](image/MusicAIEmbedded/1737073480926.png)
 
-## Principles
+## Principles of AI Disruption 
 
 2.1 A new technology is accepted in production in one of the following ways: a) `<span style="color:pink">`replacement, b) `<span style="color:red">`insertion, and c) `<span style="color:blue">`disruption (point of no return).
 
@@ -20,7 +22,7 @@ https://cerkut.github.io
 
 2.3 A disruptive technology is accepted if and only if (iff) when its value proposition is significantly higher than the risks.
 
-# Example: Birth of Modern Music Production
+## Example: Birth of Modern Music Production
 
 ![1737074297517](image/MusicAIEmbedded/1737074297517.png)"A disruption" by Cumhur Erkut is licensed under CC BY-SA
 
@@ -46,9 +48,7 @@ According to Zuboff, economies of scale, scope, and action are forms of harm. 
 
 <!-- Slide number: 5 -->
 
-![Graphical user interface, application
-
-Description automatically generated](Picture8.jpg)
+![Graphical user interface, application Description automatically generated](Picture8.jpg)
 
 ![A logo of a company
 
@@ -74,7 +74,7 @@ See also https://github.com/AI-Guru/music-generation-research (stopped in 2023)!
 
 # VR / Tangible HCI Rehabilitation
 
-### Notes:
+### TODO Notes: bullets and items from this point onwards
 
 Example 1:
 
@@ -96,11 +96,11 @@ https://audiobox.metademolab.com
 Snapshot of SIGGRAPH 97 demo
 
 DIVA is a collaborative research group of the following topics:
-Real-time automatic character animation
-Interaction through motion analysis, especially conductor following.
-Sound generation with physical instrument models
-Acoustics modelling and auralization
-EVE - The Experimental Virtual Environment
+* Real-time automatic character animation
+* Interaction through motion analysis, especially conductor following.
+* Sound generation with physical instrument models
+* Acoustics modelling and auralization
+* EVE - The Experimental Virtual Environment
 
 ![Picture 2](Picture2.jpg)
 DIVA - Digital Interactive Virtual Acoustics (‘98 Arrival to Finland, ’13 to Denmark )
